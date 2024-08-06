@@ -8,7 +8,7 @@ featured: false
 ## figure
 
 ## ref in posts
-[Neat]({{< ref "blog/videos.md" >}})
+
 [Who]({{< relref "blog/videos.md#who" >}})
 
 ## hide toggle
