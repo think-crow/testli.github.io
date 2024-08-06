@@ -5,10 +5,7 @@ tags: ["Hugo", "Ladder", "shortcode"]
 featured: false
 ---
 <!--more-->
-## figure
 
-## ref in posts
-[Neat]({{< ref "blog/zh/how-to-integrate-umami-for-free-to-blog-site.zh" >}})
 
 ## hide toggle
 {{< toggle summary="summary" >}}
