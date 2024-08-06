@@ -9,7 +9,7 @@ featured: false
 
 ## ref in posts
 
-[Who]({{< relref "blog/videos.md#who" >}})
+
 
 ## hide toggle
 {{< toggle summary="summary" >}}
